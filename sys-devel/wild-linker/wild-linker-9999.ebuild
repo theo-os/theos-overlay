@@ -173,7 +173,6 @@ CRATES="
 	toml_datetime@0.7.0
 	toml_edit@0.22.27
 	toml_parser@1.0.1
-	toml_writer@0.0.0
 	tracing-attributes@0.1.30
 	tracing-core@0.1.34
 	tracing-subscriber@0.3.19
